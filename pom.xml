@@ -14,7 +14,9 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>course</name>
 	<description>Demo project for Spring Boot</description>
+	
 	<properties>
+		<java.home>/usr/java/jdk-11.0.10\bin/javac</java.home>
 		<java.version>11</java.version>
 		<source>11</source>
 		<target>11</target>
